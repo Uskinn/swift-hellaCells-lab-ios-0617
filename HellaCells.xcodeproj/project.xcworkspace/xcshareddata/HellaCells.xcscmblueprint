@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BB09BA43535BB3ACD4A1B2B2C5D9127E96853336",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BB09BA43535BB3ACD4A1B2B2C5D9127E96853336" : 0,
+    "5A29B29B9B8CFBCA28F072170B70F021754525D7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "05AE2866-C653-4742-9BD0-8292278588E2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BB09BA43535BB3ACD4A1B2B2C5D9127E96853336" : "swift-hellaCells-lab-ios-0617\/",
+    "5A29B29B9B8CFBCA28F072170B70F021754525D7" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HellaCells",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HellaCells.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Uskinn\/Uber-SplashScreen-Tutorial.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5A29B29B9B8CFBCA28F072170B70F021754525D7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Uskinn\/swift-hellaCells-lab-ios-0617.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BB09BA43535BB3ACD4A1B2B2C5D9127E96853336"
+    }
+  ]
+}
